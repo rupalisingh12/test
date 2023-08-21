@@ -1,9 +1,0 @@
-{{#user}}
-
-Name: Rupali
-
-Skills: Java,Data Structures and Algorithems,Linux,git and github
-
-Email: rupalisinghkumar12@gmail.com
-
-{{/user}}
